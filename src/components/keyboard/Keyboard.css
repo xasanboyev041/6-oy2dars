@@ -1,0 +1,47 @@
+.wrapper-keyboard {
+  width: 1130px;
+  margin: 0 auto;
+  background-color: rgba(33, 33, 33, 1);
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.key-img {
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+.wrapper-words {
+  width: 326px;
+  color: white;
+  margin-left: 70px;
+  margin-top: 80px;
+}
+.beached {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 37px;
+  font-family: sans-serif;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+.hourImg {
+  width: 28px;
+  height: 28px;
+}
+.hour {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.featured {
+  width: 112px;
+  height: 32px;
+  background-color: rgba(13, 110, 253, 1);
+  color: white;
+  border-radius: 3px;
+  border: none;
+  margin-bottom: 0px;
+}

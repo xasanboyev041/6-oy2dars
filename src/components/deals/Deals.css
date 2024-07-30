@@ -1,0 +1,47 @@
+.load {
+  width: 272px;
+  height: 64px;
+  font-family: sans-serif;
+  font-size: 23px;
+  font-weight: 600;
+  line-height: 32px;
+  color: white;
+  background-color: rgba(13, 110, 253, 1);
+  border: none;
+  border-radius: 3px;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 40px;
+}
+.wrapper-deals {
+  width: 1125px;
+  margin: 0 auto;
+}
+.inbox {
+  background-color: rgba(13, 110, 253, 1);
+  border-radius: 12px;
+}
+.deals-h5 {
+  width: 426px;
+  font-family: sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  color: white;
+  margin: 0 auto;
+  padding-top: 70px;
+  text-align: center;
+}
+.by {
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 21px;
+  color: white;
+  padding-bottom: 70px;
+  margin-left: 430px;
+}
+.input {
+  display: block;
+  margin: 30px auto 20px auto;
+}

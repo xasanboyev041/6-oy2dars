@@ -1,0 +1,52 @@
+.container-cards {
+  width: 1120px;
+  margin: 0 auto;
+  margin-right: 234px;
+}
+
+.h2-cards {
+  font-family: sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 34px;
+  text-align: left;
+  padding-bottom: 20px;
+  color: rgba(33, 33, 33, 1);
+}
+ul {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 35px;
+  list-style: none;
+  border-top: 1px solid rgba(234, 234, 234, 1);
+  padding-top: 28px;
+}
+li {
+  width: 354px;
+  border-radius: 10px;
+}
+.h3-cards {
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 30px;
+  color: rgba(33, 33, 33, 1);
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+.p-cards {
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: rgba(82, 100, 124, 1);
+}
+.span {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.img-small {
+  width: 28px;
+  height: 28px;
+}
